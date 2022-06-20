@@ -1,3 +1,23 @@
 body {
-    background-color: blue;
+    background-color: #22cc88;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#box {
+    margin: 50px auto 400px auto;
+    width: 700px;
+    height: 800px;
+    background-color: #55ffdd;
+    border-radius: 600px;
+    border: 4px solid black;
+}
+
+hr {
+    height: 20px;
+    background-color: #22ffbb;
+    padding: 5px;
+    border: 4px solid black;
 }
